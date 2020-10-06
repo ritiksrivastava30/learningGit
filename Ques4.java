@@ -1,6 +1,7 @@
 /*
-Kamal Rathore
-20198074
+ritik
+20194096
+using this file for learning git
 */
 import java.util.Scanner;
 
